@@ -1,5 +1,6 @@
 # minecraft-diagonal-seed-finder
 Finds Minecraft 1.15 seeds which make the decorations in nearby chunks repeat.
+You can find more information [on Matthew's youtube channel](https://www.youtube.com/watch?v=UtNXUMrSIxQ).
 
 ## Building and Running
 As this code is just a single `.java` file, you should be able to build with this line.
